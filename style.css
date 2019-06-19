@@ -1,0 +1,31 @@
+body{
+	background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5)), url('resources/img3.jpg');
+	background-size: cover;
+	background-position: center;
+}
+.login-form{
+	max-width: 700px;
+	margin: 150px auto;
+	float: none;
+}
+.login{
+	padding: 30px;
+	color: #fff;
+	background: rgba(211, 211, 211, 0.5);
+}
+.login input{
+	background: transparent;
+}
+.register{
+	padding: 30px;
+	background-color: #fff;
+}
+h1{
+	color: #fff !important;
+	margin-top: 290px !important;
+	text-align: center;
+	text-transform: uppercase; 
+}
+a{
+	margin-top: -260px;
+}
